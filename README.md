@@ -1,5 +1,5 @@
-# PALMORIA-GROUP HR ANALYTICS
-HR analytics case study investigating gender representation, pay equity, salary compliance, performance ratings, and employee compensation using Power BI, DAX and Excel.
+# PALMORIA GROUP HR ANALYTICS
+HR analytics case study analyzing workforce demographics, gender pay differences, salary compliance, performance, and employee compensation using Power BI, DAX, and Excel.
 
 ## Project Overview
 Palmoria Group is a manufacturing company operating across different regions and departments in Nigeria. This project analyzes the company's employee data to assess workforce composition, gender-related pay differences, salary compliance, employee performance, and performance-based compensation.

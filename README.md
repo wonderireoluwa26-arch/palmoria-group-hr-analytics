@@ -161,6 +161,6 @@ Aspiring Data Analyst and Data Scientist | Statistics Student
 Interested in using data analytics and data science to solve real-world problems across Finance, Fintech, Telecommunications, and Public Policy.
 
 - **GitHub:** [My GitHub Profile](https://github.com/wonderireoluwa26-arch)
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/boaz-wonder-769186285)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/boaz-wonder-769186285)
 
 
